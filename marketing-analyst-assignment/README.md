@@ -26,11 +26,8 @@ Create a one-page dashboard visualizing the integrated data. Include key metrics
 2. **SQL script** used for data transformation and unified model creation
 
 ## Submission
-Send the dashboard link and your SQL script.
+Submit you completed homework here: https://docs.google.com/forms/d/e/1FAIpQLSe-3UpHq1l6TiDMONDecHRa53otacxTReYF7gNIoCmmkW4Xyw/viewform.
 
 ## Evaluation
 We'll assess technical execution, data accuracy, visualization quality, and insights generated.
 
----
-
-Questions? Contact me via email: ilia.kolesnikov@improvado.io
