@@ -12,10 +12,9 @@ Your mission: Transform raw advertising data from three major platforms into act
 
 ## Requirements
 
-### 1. Database Setup
+### 1. Data Setup
 - Upload all three CSV files to a cloud database of your choice
 - Create an additional table that unifies data from these 3 tables
-- Any professional cloud database is acceptable (BigQuery, Redshift, Snowflake, PostgreSQL, etc.). Most of them should have a free tier that is enough to resolve this task. So you don't need to pay for using this databases.
 
 ### 2. Dashboard
 Create a one-page dashboard visualizing the integrated data. Include key metrics and insights you find relevant for cross-channel performance analysis.
@@ -23,7 +22,7 @@ Create a one-page dashboard visualizing the integrated data. Include key metrics
 ## Deliverables
 
 1. **Link to live dashboard** (required)
-2. **SQL script** used for data transformation and unified model creation
+2. **Link to video** where you walk throught the dashboard and describe the choice of widgets (required) 
 
 ## Submission
 Submit you completed homework here: https://docs.google.com/forms/d/e/1FAIpQLSe-3UpHq1l6TiDMONDecHRa53otacxTReYF7gNIoCmmkW4Xyw/viewform.
