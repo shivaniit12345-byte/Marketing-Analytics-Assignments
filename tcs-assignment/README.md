@@ -67,6 +67,4 @@ We'll assess:
 
 ---
 
-Questions? Contact: ilia.kolesnikov@improvado.io
-
 Good luck! 🚀
